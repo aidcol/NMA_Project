@@ -67,7 +67,7 @@ class EncodingModel2(nn.Module):
             self.an_classifier = nn.Sequential(*features)
 
     def forward(self, x: torch.Tensor) -> torch.Tensor:
-        """Implements foward pass from AlexNet."""
+        """Implements foward pass from AlexNet"""
         x = self.an_features(x)
         x = self.an_avgpool(x)
         x = torch.flatten(x, 1)
