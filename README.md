@@ -1,6 +1,6 @@
 # NMA_Project
 
-This repository contains the code from my group's project created and presented during the 2022 Computational Neuroscience course by Neuromatch Academy. We analyzed the *Kay natural images* dataset (sourced from the following paper: Kay, K. N., Naselaris, T., Prenger, R. J., and Gallant, J. L. (2008). Identifying natural images from human brain activity. Nature, 452(7185): 352-355. doi: 10.1038/nature06713). In our project, we programmed a visual encoding model that would predict the fMRI response in 8428 voxels of visual cortex from 1750 natural images.
+This repository contains the code from my group's project created and presented during the 2022 Computational Neuroscience course by Neuromatch Academy. We analyzed the *Kay natural images* dataset, sourced from the following [paper](https://www.nature.com/articles/nature06713): Kay, K. N., Naselaris, T., Prenger, R. J., and Gallant, J. L. (2008). Identifying natural images from human brain activity. Nature, 452(7185): 352-355. doi: 10.1038/nature06713. In our project, we programmed a visual encoding model that would predict the fMRI response in 8428 voxels of visual cortex from 1750 natural images.
 
 ## Network Architecture
 
